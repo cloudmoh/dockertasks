@@ -1,0 +1,12 @@
+hello.jsp (376 bytes)
+images
+images\tomcat.gif (1.41 KB)
+index.html (636 bytes)
+META-INF
+META-INF\MANIFEST.MF (106 bytes)
+WEB-INF
+WEB-INF\classes
+WEB-INF\classes\mypackage
+WEB-INF\classes\mypackage\Hello.class (1.45 KB)
+WEB-INF\lib
+WEB-INF\web.xml (813 bytes)
