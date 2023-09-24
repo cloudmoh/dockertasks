@@ -5,6 +5,11 @@ done task
 
 Installed Docker on ec2 and run
 
+
+
+![Screenshot (215)](https://github.com/cloudmoh/dockertasks/assets/126796948/951d481f-5fd9-4d6b-bec2-88b34c468bf3)
+
+
 used these docker commands to run tomcat img
  mkdir tomcatimg2
 cd tomcatimg2
