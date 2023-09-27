@@ -77,6 +77,8 @@ sudo apt update -y
   sudo docker push shygul1801/nginxapp1
   
   ![Screenshot (217)](https://github.com/cloudmoh/dockertasks/assets/126796948/c372e93a-7782-4947-9ad0-58beea01b0e3)
+  
+![Screenshot (218)](https://github.com/cloudmoh/dockertasks/assets/126796948/74340b93-f832-4f3a-8d39-9f88aa97c98a)
 
 
   https://hub.docker.com/repository/docker/shygul1801/nginxapp1/general -- Dockerhub link 
